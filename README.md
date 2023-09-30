@@ -1,11 +1,11 @@
 # Tsunamiforce
 Полу-модульный авто шахтер на C++ для Minecraft сервера. Был сделан за 3 дня.
 
-ГИФ
+![starminer](https://github.com/KachesovVadim/Tsunamiforce/assets/142095950/952d35ae-8b23-476e-b39d-96988ec31419)
 
-ГИФ
+![rayminer](https://github.com/KachesovVadim/Tsunamiforce/assets/142095950/d78820ba-e99d-4ce4-a03e-8020a78d50e0)
 
-Демонстрация работы – ХХ
+Демонстрация работы – https://youtu.be/cExUpgVzPXQ
 
 ## Описание
 Этот чит позволяет добывать руду в полностью автоматическом режиме на сервере Lavacraft. Есть 2 режима добычи: «звездой» и «лучом»
